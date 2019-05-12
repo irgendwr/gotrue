@@ -6,8 +6,8 @@ import (
 	"net/http"
 
 	"github.com/go-chi/chi"
-	"github.com/netlify/gotrue/models"
-	"github.com/netlify/gotrue/storage"
+	"github.com/irgendwr/gotrue/models"
+	"github.com/irgendwr/gotrue/storage"
 	"github.com/gobuffalo/uuid"
 )
 

@@ -1,4 +1,4 @@
-module github.com/netlify/gotrue
+module github.com/irgendwr/gotrue
 
 require (
 	cloud.google.com/go v0.0.0-20170822200954-98f5696b1026 // indirect

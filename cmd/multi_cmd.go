@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/netlify/gotrue/api"
-	"github.com/netlify/gotrue/conf"
-	"github.com/netlify/gotrue/storage"
+	"github.com/irgendwr/gotrue/api"
+	"github.com/irgendwr/gotrue/conf"
+	"github.com/irgendwr/gotrue/storage"
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 )

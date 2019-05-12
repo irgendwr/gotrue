@@ -2,7 +2,7 @@ package models
 
 import (
 	"github.com/gobuffalo/pop"
-	"github.com/netlify/gotrue/storage"
+	"github.com/irgendwr/gotrue/storage"
 )
 
 type Pagination struct {
