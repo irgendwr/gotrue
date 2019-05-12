@@ -6,13 +6,13 @@ import (
 	"regexp"
 
 	"github.com/go-chi/chi"
+	"github.com/gobuffalo/uuid"
 	"github.com/imdario/mergo"
 	"github.com/netlify/gotrue/conf"
+	"github.com/netlify/gotrue/graceful"
 	"github.com/netlify/gotrue/mailer"
 	"github.com/netlify/gotrue/storage"
-	"github.com/netlify/netlify-commons/graceful"
 	"github.com/rs/cors"
-	"github.com/gobuffalo/uuid"
 	"github.com/sebest/xff"
 	"github.com/sirupsen/logrus"
 )
