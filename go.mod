@@ -15,7 +15,7 @@ require (
 	github.com/dropbox/godropbox v0.0.0-20180512210157-31879d3884b9 // indirect
 	github.com/facebookgo/stack v0.0.0-20160209184415-751773369052 // indirect
 	github.com/facebookgo/stackerr v0.0.0-20150612192056-c2fcf88613f4 // indirect
-	github.com/go-chi/chi v3.1.4+incompatible
+	github.com/go-chi/chi v4.0.2+incompatible
 	github.com/go-kit/kit v0.8.0 // indirect
 	github.com/go-logfmt/logfmt v0.4.0 // indirect
 	github.com/go-sql-driver/mysql v1.4.0
